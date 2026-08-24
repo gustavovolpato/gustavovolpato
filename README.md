@@ -1,22 +1,22 @@
 # Olá, eu sou o Gustavo Vieira Volpato 👋
 
  Natural de Curitiba - PR  
- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (Universidade Positivo)  
- 🎯 Em busca de oportunidades nas áreas de **Tecnologia da Informação**, **Análise de Dados** e **Suporte Técnico**
+  Estudante de **Análise e Desenvolvimento de Sistemas** (Universidade Positivo)  
+  Em busca de oportunidades nas áreas de **Tecnologia da Informação**, **Análise de Dados** e **Suporte Técnico**
 
 ---
 
-### 🚀 Sobre Mim
+###  Sobre Mim
 
 Sou um entusiasta de tecnologia focado em resolução de problemas, raciocínio analítico e otimização de processos. Tenho experiência prática em suporte técnico, diagnóstico de hardware e análise de dados com foco em Business Intelligence.
 
-- 📊 **Análise de Dados & BI:** Desenvolvimento de relatórios e dashboards no Power BI, modelagem de dados e conceitos de DAX e SQL.
-- 💻 **Sistemas & Suporte:** Diagnóstico e manutenção de hardware, suporte ao usuário e familiaridade com sistemas Linux (distribuições leves) e Windows.
-- 🗣️ **Soft Skills:** Comunicação assertiva, negociação, trabalho em equipe e foco no atingimento de metas.
+-  **Análise de Dados & BI:** Desenvolvimento de relatórios e dashboards no Power BI, modelagem de dados e conceitos de DAX e SQL.
+-  **Sistemas & Suporte:** Diagnóstico e manutenção de hardware, suporte ao usuário e familiaridade com sistemas Linux (distribuições leves) e Windows.
+   **Soft Skills:** Comunicação assertiva, negociação, trabalho em equipe e foco no atingimento de metas.
 
 ---
 
-### 🛠️ Competências & Tecnologias
+###  Competências & Tecnologias
 
 **Dados & Business Intelligence:**
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
